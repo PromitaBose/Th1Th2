@@ -1,1 +1,1 @@
-# Th1Th2
+Survival analysis of  cancer victims against Th1, Th2 cells, based on the analysis by Thorsson et al. These scores may be considered to represent the elevated potential for activation of Th1 and Th2 cells during an immune response.
